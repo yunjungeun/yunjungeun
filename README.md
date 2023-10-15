@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center"> 
 
-<!--
-**yunjungeun/yunjungeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br/>
+  
+####  :clipboard: Once I've Used 
+  
+ <br/>
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+
+
+
+
+ 
+   <br/>
+   <br/>
+ 
