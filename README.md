@@ -1,6 +1,6 @@
-<div align="center"> <h2> 반갑습니다:clap: <br/>
- 저에 대해 알려드릴게요:smile: </h2>
-<h3> :computer:사용언어 및 도구:point_down:</h3>
+<div align="center"> <h2> 반갑습니다✌<br/>
+ 저에 대해 알려드릴게요😄 </h2>
+<h3> 💻사용언어 및 도구⌨</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -15,5 +15,5 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </div>
- <h2>궁금해지셨다면:question:  :point_right: <a href="https://drive.google.com/drive/folders/1PJiojQNyL1TjmPTCX36qyMnpd0G4IvA0?usp=drive_link">포트폴리오</a> :point_left:클릭해주세요</h2>
+ <h2>저에 대해 더 알고싶으시면❓  👉 <a href="https://drive.google.com/drive/folders/1PJiojQNyL1TjmPTCX36qyMnpd0G4IvA0?usp=drive_link">포트폴리오</a> 👈클릭해주세요</h2>
 
